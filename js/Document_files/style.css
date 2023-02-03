@@ -1,0 +1,86 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body{ 
+  background-color: #f0f2f5 !important;
+}
+
+ul,
+li,
+ol {
+  list-style: none !important;
+}
+a {
+  display: inline-block;
+  text-decoration: none !important;
+}
+
+.header-1{
+  background-color: #fff;
+}
+
+.form-control{
+    border-radius: 20px !important;
+    width: 170px !important;}
+.active-1 {
+padding: 6px 8px !important;
+font-size: 25px !important;
+margin: 0px 7px !important;}
+    .sdb {
+        border:  1px solid #65676b;
+        padding: 10px 10px !important;
+        border-radius: 40px;}
+    .color-text-1 i{
+color: #1b74e4 !important;
+padding: 10px 30px;
+border-bottom: 2px solid #1b74e4 !important;
+border-width: 3px !important;}
+    .Friends a{
+      padding: 10px 10px  ;
+ font-weight: 500;
+      border-radius: 20px;
+      background-color:#e7f3ff;}
+    .sk{
+ position: relative;
+      border-radius:300px  ;
+      padding: 16px;
+      font-size: 15px;
+      background-color:#e7f3ff ;
+    }
+
+    .bander{
+      position: absolute;
+      background-color: red;
+      color: #fff;
+      border-radius: 35px;
+      top: -4px;
+      right: 99px;
+      z-index: 99;
+      padding: 0px 8px;
+      font-weight: bold;}
+  .Friends img{
+border-radius: 35px;}  
+
+
+
+.reenshot-1{
+  width: 13%;
+
+  overflow: auto;
+  display: block;
+  position: fixed;
+
+  height: 100%;
+  line-height: 20px;
+
+}
+
+.reenshot-1 ul li a{
+  color: black;
+  font-weight: 30px ;
+  font-weight: 500;
+
+}
